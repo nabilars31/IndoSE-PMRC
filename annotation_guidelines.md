@@ -30,22 +30,22 @@ Pelabelan dilakukan pada **level kalimat (sentence-level)**. Jika dalam satu kal
 *   **Kata Kunci Utama**: *permasalahannya adalah, tantangan dalam, menjadi kendala, sulit untuk, untuk mengatasi, cara atau sistem manual, dll*.
 *   **Contoh**: "Sistem Informasi Manajemen Filing di Rumah Sakit masih jarang ditemui, banyak rumah sakit yang masih menggunakan sistem manual dalam pencatatan peminjaman dan pengembalian DRM, sehingga masih banyak terjadi missfile, karena belum terlaksana dengan baik pencatatannya"
 
-### B. Method
+#### B. Method
 *   **Definisi**: Kalimat yang memuat penjelasan mengenai pendekatan, algoritma, arsitektur sistem, model, instrumen, tahapan proses, atau teknik yang diusulkan atau digunakan untuk menyelesaikan masalah.
 *   **Kata Kunci Utama**: *menggunakan metode, diimplementasikan dengan, menggunakan algoritma, mengusulkan arsitektur, menerapkan teknik, dirancang menggunakan, dll*.
 *   **Contoh**: "Kami menerapkan model arsitektur IndoBERT-Base dengan optimasi AdamW untuk klasifikasi teks."
 
-### C. Result 
+#### C. Result 
 *   **Definisi**: Kalimat yang menyajikan temuan, produk/sistem yang berhasil dibangun, hasil pengujian, angka performa akurasi, atau observasi utama yang didapatkan setelah eksperimen dijalankan.
 *   **Kata Kunci Utama**: *hasil pengujian menunjukkan, memperoleh akurasi sebesar, aplikasi ini berhasil, menaikkan performa hingga, hasil menunjukkan, dll*.
 *   **Contoh**: "Model yang diusulkan berhasil mencapai nilai akurasi sebesar 89,5% pada dataset pengujian."
 
-### D. Conclusion 
+#### D. Conclusion 
 *   **Definisi**: Kalimat yang berisi kesimpulan akhir, implikasi teoritis atau praktis, kontribusi nyata dari penelitian, atau saran untuk pengembangan di masa depan.
 *   **Kata Kunci Utama**: *kesimpulan dari, penelitian ini berkontribusi pada, diharapkan dapat membantu, disimpulkan bahwa, untuk penelitian selanjutnya, dll*.
 *   **Contoh**: "Dapat disimpulkan bahwa pendekatan semi-otomatis mampu memangkas waktu anotasi tanpa menurunkan kualitas data."
 
-### E. No_pmrc
+#### E. No_pmrc
 *   **Definisi**: Kalimat pendukung atau komplementer yang tidak mengandung esensi dari keempat komponen PMRC di atas. Umumnya berupa kalimat latar belakang bidang ilmu yang terlalu umum, informasi administratif, lokasi/waktu penulisan, atau kalimat sapaan/terima kasih.
 *   **Kata Kunci Utama**: *perkembangan teknologi saat ini, saat ini rekayasa perangkat lunak, penulis mengucapkan terima kasih, studi ini dilakukan di, dll*.
 *   **Contoh**: "Di era digital saat ini, perkembangan aplikasi perangkat lunak berbasis mobile berkembang sangat pesat."
