@@ -20,7 +20,7 @@ Untuk membuktikan bahwa aturan pelabelan dalam panduan ini bersifat objektif dan
 
 *   Nilai Cohen's Kappa: 0.8525
 *   Tingkat Kesepakatan: *Almost Perfect Aggreement*
-*   Eksperimen: Proses perhitungan statistik dan matriks kesepakatan antar-annotator dapat diakses melalui link berikut [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zNsl0HPvW3LJMSkF7Edosdpu6B7Cjond?usp=sharing)
+*   Eksperimen: Proses perhitungan statistik dan matriks kesepakatan antar-annotator dapat diakses melalui tautan berikut [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zNsl0HPvW3LJMSkF7Edosdpu6B7Cjond?usp=sharing)
 
 ### 3. Definisi dan Aturan Pelabelan
 Pelabelan dilakukan pada **level kalimat (sentence-level)**. Jika dalam satu kalimat mengandung lebih dari satu indikasi komponen PMRC, annotator harus menentukan label berdasarkan fokus atau komponen yang paling dominan di dalam kalimat tersebut.
