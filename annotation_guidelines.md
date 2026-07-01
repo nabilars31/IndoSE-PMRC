@@ -37,17 +37,17 @@ Pelabelan dilakukan pada **level kalimat (sentence-level)**. Jika dalam satu kal
 
 ### C. Result 
 *   **Definisi**: Kalimat yang menyajikan temuan, produk/sistem yang berhasil dibangun, hasil pengujian, angka performa akurasi, atau observasi utama yang didapatkan setelah eksperimen dijalankan.
-*   **Kata Kunci Utama**: *hasil pengujian menunjukkan, memperoleh akurasi sebesar, aplikasi ini berhasil, menaikkan performa hingga, hasil menunjukkan*.
+*   **Kata Kunci Utama**: *hasil pengujian menunjukkan, memperoleh akurasi sebesar, aplikasi ini berhasil, menaikkan performa hingga, hasil menunjukkan, dll*.
 *   **Contoh**: "Model yang diusulkan berhasil mencapai nilai akurasi sebesar 89,5% pada dataset pengujian."
 
 ### D. Conclusion 
 *   **Definisi**: Kalimat yang berisi kesimpulan akhir, implikasi teoritis atau praktis, kontribusi nyata dari penelitian, atau saran untuk pengembangan di masa depan.
-*   **Kata Kunci Utama**: *kesimpulan dari, penelitian ini berkontribusi pada, diharapkan dapat membantu, disimpulkan bahwa, untuk penelitian selanjutnya*.
+*   **Kata Kunci Utama**: *kesimpulan dari, penelitian ini berkontribusi pada, diharapkan dapat membantu, disimpulkan bahwa, untuk penelitian selanjutnya, dll*.
 *   **Contoh**: "Dapat disimpulkan bahwa pendekatan semi-otomatis mampu memangkas waktu anotasi tanpa menurunkan kualitas data."
 
 ### E. No_pmrc
 *   **Definisi**: Kalimat pendukung atau komplementer yang tidak mengandung esensi dari keempat komponen PMRC di atas. Umumnya berupa kalimat latar belakang bidang ilmu yang terlalu umum, informasi administratif, lokasi/waktu penulisan, atau kalimat sapaan/terima kasih.
-*   **Kata Kunci Utama**: *perkembangan teknologi saat ini, saat ini rekayasa perangkat lunak, penulis mengucapkan terima kasih, studi ini dilakukan di*.
+*   **Kata Kunci Utama**: *perkembangan teknologi saat ini, saat ini rekayasa perangkat lunak, penulis mengucapkan terima kasih, studi ini dilakukan di, dll*.
 *   **Contoh**: "Di era digital saat ini, perkembangan aplikasi perangkat lunak berbasis mobile berkembang sangat pesat."
 
 ### 4. Protokol Resolusi Ketidaksepakatan (Disagreement Resolution)
